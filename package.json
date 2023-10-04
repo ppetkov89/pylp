@@ -1,0 +1,29 @@
+{
+  "name": "pylp",
+  "version": "1.0.0",
+  "description": "A streamlined task runner designed for simplicity",
+  "main": "src/index.js",
+  "bin": {
+    "pylp": "src/bin/pylp.js"
+  },
+  "scripts": {
+    "start": "node src/bin/pylp.js"
+  },
+  "keywords": [
+    "task-runner",
+    "pylp",
+    "build",
+    "workflow"
+  ],
+  "author": "Petko Petkov",
+  "repository": {
+    "url": "https://github.com/ppetkov89/pylp"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "undertaker": "^1.3.0",
+    "vinyl-fs": "^4.0.0",
+    "winston": "^3.10.0",
+    "yargs": "^17.7.2"
+  }
+}
