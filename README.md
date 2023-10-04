@@ -2,6 +2,8 @@
 
 A streamlined task runner designed for simplicity.
 
+Compatible with all gulp plugins.
+
 ## Installation
 
 ```
