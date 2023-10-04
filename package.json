@@ -1,6 +1,6 @@
 {
   "name": "pylp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A streamlined task runner designed for simplicity",
   "main": "src/index.js",
   "bin": {
